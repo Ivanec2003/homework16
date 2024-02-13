@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">homework16(hackathon)</string>
+    <string name="textViewTitleRegistration">Registration</string>
+    <string name="textFieldEnterLoginHint">Login</string>
+    <string name="textFieldEnterPasswordHint">Password</string>
+    <string name="textFieldEnterPasswordRepeatHint">Repeat password</string>
+    <string name="buttonRegistration">Registration</string>
+    <string name="buttonConfirm">Confirm</string>
+    <string name="imageViewPhotoWorkerDetailDescription">Photo of worker</string>
+    <string name="textViewNameWorkerDetailHint">Name of worker</string>
+    <string name="textViewPositionDetailHint">Position of worker</string>
+    <string name="textViewConfidenceLevelDetailHint">Confidence level of worker</string>
+    <string name="textViewPosition">Position of worker</string>
+    <string name="textViewConfidenceLevel">Confidence level of worker</string>
+    <string name="imageViewPhotoWorkerDescription">Photo of worker</string>
+    <string name="textViewNameWorkerHint">Name of worker</string>
+    <string name="textViewPositionHint">Position of worker</string>
+    <string name="textViewConfidenceLevelHint">Confidence level of worker</string>
+    <string name="toolbarListWorkerTitle">List Worker</string>
+    <string name="toolbarDetail">Detail</string>
+
+</resources>
